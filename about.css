@@ -1,0 +1,198 @@
+.section-hero {
+  height: 60vh;
+}
+
+.header {
+  display: flex;
+}
+
+.section-helping {
+  padding-bottom: 6.8rem;
+}
+
+.hero-text-about {
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  line-height: 1.2;
+  background-color: white;
+  border: 1px solid #fff;
+}
+
+.heading-helping {
+  padding-top: 20.8rem;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.heading-clients {
+  padding-top: 4.8rem;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.heading-work {
+  padding-top: 4.8rem;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.section-helping .partition {
+  margin-bottom: 1.2rem;
+}
+
+.helping,
+.special-text {
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.about-nav {
+  display: none;
+}
+
+.helping-img {
+  margin: 2.4rem 4rem;
+  border: 1px solid #d3d3d3;
+  padding: 1.2rem 3.6rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.logo-about {
+  width: 50%;
+  height: 30%;
+}
+
+.logo-ab {
+  display: none;
+}
+
+.about-text {
+  text-align: center;
+  margin-top: 20px;
+  padding: 1.2rem;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.about-contact {
+  text-align: center;
+  padding: 1.2rem;
+  font-size: 1.6rem;
+  line-height: 1.2;
+  display: flex;
+  justify-content: center;
+  color: #3d3f46;
+}
+
+.section-special {
+  border-top: 1px solid #3d3f46;
+}
+
+.special-text {
+  text-align: center;
+  margin-top: 20px;
+  padding: 1.2rem;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.special-container {
+  grid-template-columns: 1fr;
+  gap: 2.4rem;
+  margin: 0 2.4rem 4.8rem 2.4rem;
+}
+
+.special-img-one {
+  background-image:
+    linear-gradient(to right, #ec5342c0, #ec5242c0),
+    url(./img/workone.jpg);
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-size: 20px;
+  height: 24rem;
+  margin: 5px;
+}
+
+.special-img-one h1 {
+  font-size: 40px;
+}
+
+.special-img-two h1 {
+  font-size: 40px;
+}
+
+.special-img-two {
+  background-image:
+    linear-gradient(to right, #ec5342c0, #ec5242c0),
+    url(./img/worktwo.jpg);
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-size: 20px;
+  height: 24rem;
+  margin: 5px;
+}
+
+.special-img-one .special-img-two {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 48em) {
+  .hero-title,
+  .hero-text {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .logo-ab {
+    margin-right: auto;
+    display: flex;
+  }
+
+  .hero-text-about {
+    margin: 3.5em;
+  }
+
+  .container {
+    max-width: 120rem;
+    padding: 0 3.2rem;
+    margin: 0 auto;
+  }
+
+  .heading-helping {
+    padding-top: 32rem;
+  }
+
+  .special-container {
+    grid-template-columns: 1fr 1fr;
+    margin-left: 4.8rem;
+    margin-right: 4.8rem;
+  }
+
+  .d-grid {
+    display: grid;
+  }
+
+  .about-nav {
+    display: block;
+  }
+}
