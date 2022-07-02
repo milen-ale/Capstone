@@ -8,7 +8,7 @@ A website built for a local tech startup
 
 ## Live Demo
 
-You can checkout the live version [here](https://milen-ale.github.io/capstone/)
+You can checkout the live version [here](https://milen-ale.github.io/Capstone/)
 
 ## Getting Started
 
