@@ -29,11 +29,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Abdelmejid Oumer Ali**
+**Milen Alebl**
 
-- GitHub: [@amejid](https://github.com/milen-ale)
-- Twitter: [@amejidoumer](https://twitter.com/milenalebel)
-- LinkedIn: [amejid](https://linkedin.com/in/milenalebel)
+- GitHub: [@milen](https://github.com/milen-ale)
+- Twitter: [@milen](https://twitter.com/milenalebel)
+- LinkedIn: [milen](https://linkedin.com/in/milenalebel)
 
 ## 🤝 Contributing
 
