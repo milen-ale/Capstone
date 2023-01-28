@@ -1,6 +1,6 @@
 # capstone-1
 
-A website built for a local tech startup
+This a dynamic, two page, responsive website for a eldely charity startup named Mekedoniya Eldedrly Charity. The team section on the homepage is displayed dynamically from an array of objects using JavaScript.
 
 ## Built With
 
