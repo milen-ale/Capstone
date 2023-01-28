@@ -31,9 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 **Milen Alebl**
 
-- GitHub: [@milen](https://github.com/milen-ale)
-- Twitter: [@milen](https://twitter.com/milenalebel)
-- LinkedIn: [milen](https://linkedin.com/in/milenalebel)
+- GitHub: [@milen-ale](https://github.com/milen-ale)
+- Twitter: [@milenalebel2](https://twitter.com/milenalebel2)
+- LinkedIn: [milenalebel](https://linkedin.com/in/milenalebel)
 
 ## 🤝 Contributing
 
